@@ -1,4 +1,24 @@
-  ## Bem-vindo(a) ao perfil do Lucas Nicéas
+ # Olá! Eu sou Lucas Niceas 👋
+
+Sou desenvolvedor web com experiência em **JavaScript**, **CSS**, **HTML**, **React**, **Node.js** e **Inteligência Artificial**. Tenho uma paixão por construir interfaces interativas, otimizar a performance de aplicações web e explorar o potencial da IA em soluções inovadoras.
+
+## 🛠️ Minhas Principais Habilidades:
+- **JavaScript**: Criação de scripts eficientes e dinâmicos.
+- **React**: Desenvolvimento de interfaces modernas e responsivas.
+- **Node.js**: Back-end com APIs rápidas e seguras.
+- **CSS & HTML**: Interfaces responsivas, acessíveis e otimizadas.
+- **Inteligência Artificial**: Uso de IA para criar experiências interativas e automação de processos.
+
+## 💼 Interesse em Projetos:
+Estou sempre em busca de novos desafios no desenvolvimento web e adoro colaborar com a comunidade. Meu foco está em contribuir para projetos que envolvam **desenvolvimento full stack** e **inovações com IA** aplicadas ao ambiente web.
+
+## 🚀 Projetos Recentes:
+- **SmartHome Assistant** - Uma aplicação para automação residencial com integração por voz.
+
+## 🌱 O que estou aprendendo:
+Atualmente, estou me aprofundando em frameworks JavaScript avançados e técnicas de machine learning aplicadas ao desenvolvimento web.
+
+Vamos colaborar e construir algo incrível juntos? Você pode me encontrar aqui no GitHub ou em minhas redes sociais.
 
  <div>
    <a href="https://github.com/lucasniceas">
