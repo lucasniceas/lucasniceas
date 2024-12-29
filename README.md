@@ -13,7 +13,14 @@ Sou desenvolvedor web com experiência em **JavaScript**, **CSS**, **HTML**, **R
 Estou sempre em busca de novos desafios no desenvolvimento web e adoro colaborar com a comunidade. Meu foco está em contribuir para projetos que envolvam **desenvolvimento full stack** e **inovações com IA** aplicadas ao ambiente web.
 
 ## 🚀 Projetos Recentes:
-- **SmartHome Assistant** - Uma aplicação para automação residencial com integração por voz.
+### 1. [PetLife](https://github.com/lucasniceas/petlife)
+- **Descrição**: Um site fictício de clínica veterinária com design responsivo e funcionalidades interativas.
+- **Demonstração ao Vivo**: [Acesse aqui](https://petlife-teste.vercel.app/)
+- **Tecnologias**: HTML5, CSS3, JavaScript.
+
+### 2. [SmartBudget Meals](https://github.com/lucasniceas/smartbudget-meals)
+- **Descrição**: Aplicativo para planejamento de refeições econômicas, com análise nutricional e geração automática de cardápios personalizados.
+- **Tecnologias**: HTML, CSS, JavaScript, Node.js.
 
 ## 🌱 O que estou aprendendo:
 Atualmente, estou me aprofundando em frameworks JavaScript avançados e técnicas de machine learning aplicadas ao desenvolvimento web.
