@@ -45,16 +45,18 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência 
 - **Destaques:** Automatização de renovações, cancelamentos e upgrades de planos
 
 ## 📊 Estatísticas do GitHub
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
 
 ## 🌎 Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasniceas/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasniceas_/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukinhasniceas@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucassniceaspt@hotmail.com)  
 
 🚀 Sempre aberto a colaborações, freelas e oportunidades! Vamos construir algo inovador juntos? 😃
 
