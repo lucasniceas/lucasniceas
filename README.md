@@ -68,7 +68,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência 
 ---
 
 ### 🎨 **Destaques Visuais**
-```html
+html
 <style>
   .github-stats {
     display: flex;
