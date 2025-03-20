@@ -46,9 +46,16 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência 
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=tokyonight"/>
+  
+  <!-- Contador de streaks (dias consecutivos contribuindo) -->
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+  <!-- Estatísticas gerais (commits, PRs, estrelas, etc.) -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+  <!-- Linguagens mais utilizadas -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 
