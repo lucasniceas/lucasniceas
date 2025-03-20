@@ -46,22 +46,43 @@ Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência 
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  
-  <!-- GitHub Streak (Sequência de commits) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=gradient&hide_border=false&border_radius=10" alt="GitHub Streak"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=radical&hide_border=false" alt="GitHub Streak"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Estatísticas gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  
-  <!-- Linguagens mais utilizadas -->
+---
+
+### 🚀 **Linguagens Mais Utilizadas**
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=gruvbox&border_radius=10"/>
+</div>
 
-  <!-- Repositório mais estrelado -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasniceas&repo=smartbudget-meals&theme=tokyonight&border_radius=10"/>
+---
 
-  <!-- Visitas no perfil -->
-  <img src="https://komarev.com/ghpvc/?username=lucasniceas&label=👀+Visualizações+no+perfil&color=blueviolet&style=flat-square" alt="Contador de visitas"/>
-  
+### 🎨 **Destaques Visuais**
+```html
+<style>
+  .github-stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #ff7eb3, #ff758c, #ff7eb3);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  }
+</style>
+
+<div class="github-stats">
+  <p>🔥 Contribuições Ativas no GitHub 🚀</p>
 </div>
 
 
