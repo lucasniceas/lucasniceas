@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Nicéas! Bem-vindo ao meu GitHub!
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência em **JavaScript, Node.js, React, Inteligência Artificial e integrações complexas**. Meu foco está em criar soluções eficientes, escaláveis e inovadoras para **aplicações web e automação de processos**.
+Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência em **JavaScript, Python, Node.js, React, Inteligência Artificial e integrações complexas**. Meu foco está em criar soluções eficientes, escaláveis e inovadoras para **aplicações web e automação de processos**.
 
 💡 Atualmente, estou me aprofundando em **Machine Learning, otimização de performance web e desenvolvimento de APIs seguras e escaláveis**.
 
