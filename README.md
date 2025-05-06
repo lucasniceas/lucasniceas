@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/readme-banner.png" alt="Lucas Nicéas banner"/>
+  <img src="https://github.com/lucasniceas/lucasniceas/blob/main/readme-banner.png" alt="Lucas Nicéas banner"/>
 </p>
 
 # 👨‍💻 Lucas Nicéas — Full Stack Developer with an AI twist ⚡️
