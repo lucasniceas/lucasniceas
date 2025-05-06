@@ -4,9 +4,6 @@
 
 # 👨‍💻 Lucas Nicéas — Full Stack Developer with an AI twist ⚡️
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
 
 Sou um **desenvolvedor full stack** focado em performance, automações inteligentes e experiências reais de produto. Minha paixão está em **construir soluções web com impacto direto em negócios**, misturando código limpo, integração com IA e interfaces bem pensadas.
 
