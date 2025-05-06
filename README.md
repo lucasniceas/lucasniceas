@@ -1,71 +1,94 @@
-# 👋 Olá, eu sou Lucas Nicéas! Bem-vindo ao meu GitHub!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/readme-banner.png" alt="Lucas Nicéas banner"/>
+</p>
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com experiência em **JavaScript, Python, Node.js, React, Inteligência Artificial e integrações complexas**. Meu foco está em criar soluções eficientes, escaláveis e inovadoras para **aplicações web e automação de processos**.
+# 👨‍💻 Lucas Nicéas — Full Stack Developer with an AI twist ⚡️
 
-💡 Atualmente, estou me aprofundando em **Machine Learning, otimização de performance web e desenvolvimento de APIs seguras e escaláveis**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
 
-## 🚀 Minhas Especialidades:
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, Python
-- **Banco de Dados:** PostgreSQL, MongoDB, Firebase
-- **Integrações & APIs:** Twilio, ClickUp API, Google Apps Script, Power BI
-- **Cloud & DevOps:** AWS (Route 53, EC2), Vercel, GitHub Actions
-- **Automatização & IA:** IA aplicada ao desenvolvimento web e automação de processos
+Sou um **desenvolvedor full stack** focado em performance, automações inteligentes e experiências reais de produto. Minha paixão está em **construir soluções web com impacto direto em negócios**, misturando código limpo, integração com IA e interfaces bem pensadas.
 
-## 💼 Projetos Destacados
+---
 
-### 🔹 [SmartBudget Meals](https://github.com/lucasniceas/smartbudget-meals)
-> Aplicativo de planejamento de refeições econômicas com análise nutricional e geração automática de cardápios personalizados.
-- **Stack:** JavaScript, Node.js, MongoDB, React
-- **Destaques:** Cálculo automático de macros, ajuste inteligente de planos alimentares
+## 🚀 Stack que me move
 
-### 🔹 [ProMentorAI](https://github.com/lucasniceas/promentorai)
-> Plataforma de treinamento corporativo baseada em IA, com trilhas de aprendizado automatizadas e análise de desempenho.
-- **Stack:** Node.js, AdminJS, PostgreSQL, Express
-- **Destaques:** Personalização dinâmica de conteúdo, relatórios preditivos
+<div align="left">
 
-### 🔹 [Painel Power BI - Contas a Pagar](https://github.com/lucasniceas/powerbi-contas-pagar)
-> Dashboard dinâmico para gestão financeira, consolidando previsão de pagamentos e execução orçamentária.
-- **Stack:** Power BI, Google Sheets, Automatação de ETL
-- **Destaques:** Filtros avançados, visualizações interativas
-
-### 🔹 [Plataforma Multiatendente com CRM e IA](https://github.com/lucasniceas/multiatendente-crm)
-> Sistema de atendimento via WhatsApp com gestão de leads, automação de vendas e análise de métricas.
-- **Stack:** Node.js, PostgreSQL, Supabase, Twilio, React.js, Redis
-- **Destaques:** CRM integrado, gestão automatizada de contatos, IA para análise de interações
-
-### 🔹 [Integração API ClickUp - Aprovação de Conteúdo](https://github.com/lucasniceas/clickup-integracao)
-> Plataforma para aprovação de conteúdo publicitário com sincronização automática com ClickUp.
-- **Stack:** Wix, API ClickUp, Node.js
-- **Destaques:** Aprovação e publicação automática de posts, gestão de status dentro do ClickUp
-
-### 🔹 [Sistema de Assinaturas Wix + Python](https://github.com/lucasniceas/wix-assinaturas)
-> Desenvolvimento de gestão de assinaturas para uma plataforma Wix, com backend em Python.
-- **Stack:** Python, APIs de Pagamento (Cielo, Redecard), Wix
-- **Destaques:** Automatização de renovações, cancelamentos e upgrades de planos
-
-## 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px; background: #0d1117; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);">
-
-  <!-- Contador de streaks (dias consecutivos contribuindo) -->
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-  <!-- Estatísticas gerais (commits, PRs, estrelas, etc.) -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-
-  <!-- Linguagens mais utilizadas -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=6&theme=gruvbox&hide_border=true"/>
+🎯 **Frontend:** React.js • Next.js • Tailwind CSS • TypeScript  
+🔧 **Backend:** Node.js • Express • FastAPI • Python  
+🧠 **IA & Automação:** OpenAI • Langchain • Integrações com WhatsApp/Facebook/ClickUp  
+💾 **Banco de dados:** PostgreSQL • MongoDB • Firebase  
+☁️ **DevOps & Cloud:** AWS EC2 • GitHub Actions • Netlify • Vercel  
+📊 **BI & Dashboards:** Power BI • Google Sheets • Supabase
 
 </div>
 
+---
 
+## 🧩 Projetos em destaque
 
+### 🟣 HubAtende – Plataforma Multicanal com IA e CRM
+> Solução SaaS com atendimento automatizado por WhatsApp, bots inteligentes, leads e CRM integrado.  
+🛠️ `Next.js` • `Node.js` • `PostgreSQL` • `OpenAI` • `Tailwind`  
+✨ Destaques: IA que conversa como humano, dashboards em tempo real, automações personalizadas
 
-## 🌎 Conecte-se comigo!
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasniceas/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasniceas_/)
-[![Hotmail](https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucassniceaspt@hotmail.com)  
+### 🟢 Coach America – SEO, Performance e CMS com Strapi
+> Otimização técnica completa de um site real com foco em Google Search, tempo de carregamento e UX.  
+🛠️ `Next.js 14` • `Tailwind CSS` • `Strapi CMS` • `Netlify`  
+✨ Destaques: Sitemap dinâmico, rich snippets com schema.org, ambiente de staging integrado
 
-🚀 Sempre aberto a colaborações, freelas e oportunidades! Vamos construir algo inovador juntos? 😃
+---
+
+### ⚙️ Universe Dashboard – Kubeflow Add-on para ativos financeiros
+> Plugin para gestão de universos de ativos (ações, ETFs, cripto) integrado ao dashboard do Kubeflow.  
+🛠️ `FastAPI` • `ArcticDB` • `PostgreSQL` • `VanillaJS` • `Kubeflow`  
+✨ Destaques: Multi-tenant por namespace, suporte a estratégias com IA, visual customizado
+
+---
+
+### 🧠 Atendimento com IA via WhatsApp para a Colormaq
+> Chatbot humanizado que filtra e registra chamados no GLPI com linguagem natural.  
+🛠️ `Python` • `FastAPI` • `OpenAI` • `GLPI API` • `Twilio`  
+✨ Destaques: Detecção de gestor, categorização inteligente, IA adaptativa 24h
+
+---
+
+### 📈 Painel Power BI – Contas a Pagar
+> Dashboard financeiro com previsões e execução orçamentária para tomada de decisões.  
+🛠️ `Power BI` • `Google Sheets` • `ETL Automation`  
+✨ Destaques: Visões por centro de custo, filtros customizados, exportação de relatórios
+
+---
+
+## 🎯 Em construção constante
+
+Atualmente estou focando em:
+- Desenvolvimento de **dashboards analíticos com dados reais**
+- Projetos com **integração total entre frontend, backend e IA**
+- Otimização de apps para **velocidade, SEO e experiência fluida**
+- Construção de **produtos SaaS escaláveis**, com arquitetura multiempresa
+
+---
+
+## 🤝 Vamos além do "conecte-se comigo"
+
+Se você curte:
+- Conversar sobre como a IA está mudando o desenvolvimento
+- Criar produtos com propósito e impacto real
+- Compartilhar boas ideias e códigos que resolvem problemas
+
+📬 Me chama ou veja mais em:  
+[🌐 lucasniceas.site](https://www.lucasniceas.site) • [💼 LinkedIn](https://www.linkedin.com/in/lucasniceas/) • [📩 E-mail](mailto:lucassniceaspt@hotmail.com) • [🌐 Instagram](https://www.instagram.com/lucasniceas_/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <i>“Código bom é aquele que resolve problema real com elegância.”</i>
+</p>
 
