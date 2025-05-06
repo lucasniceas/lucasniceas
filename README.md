@@ -63,6 +63,14 @@ Sou um **desenvolvedor full stack** focado em performance, automações intelige
 ✨ Destaques: Visões por centro de custo, filtros customizados, exportação de relatórios
 
 ---
+## 📊 Minhas Entregas em Números
+
+- 🧠 +10 projetos com integração de IA (OpenAI, automações inteligentes)
+- 🌍 Plataformas SaaS usadas por empresas reais (B2B)
+- ⚙️ APIs REST seguras com autenticação, multiempresa, multiusuário
+- 🚀 Deploys automáticos com GitHub Actions e Netlify/Vercel
+
+---
 
 ## 🎯 Em construção constante
 
@@ -86,9 +94,17 @@ Se você curte:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasniceas&theme=tokyonight&hide_border=true" />
-  <br/><br/>
+## 🛠️ Tech Stack Atual
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
   <i>“Código bom é aquele que resolve problema real com elegância.”</i>
-</p>
+
 
