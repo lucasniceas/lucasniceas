@@ -2,106 +2,249 @@
   <img src="https://github.com/lucasniceas/lucasniceas/blob/main/readme-banner.png" alt="Lucas Nicéas banner"/>
 </p>
 
-# 👨‍💻 Lucas Nicéas — Full Stack Developer with an AI twist ⚡️
+<div align="center">
 
+# 👨‍💻 Lucas Nicéas
+### Full Stack Developer with an AI twist ⚡️
 
-Sou um **desenvolvedor full stack** focado em performance, automações inteligentes e experiências reais de produto. Minha paixão está em **construir soluções web com impacto direto em negócios**, misturando código limpo, integração com IA e interfaces bem pensadas.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+Real+Impact+Solutions" alt="Typing SVG" />
 
----
-
-## 🚀 Stack que me move
-
-<div align="left">
-
-🎯 **Frontend:** React.js • Next.js • Tailwind CSS • TypeScript  
-🔧 **Backend:** Node.js • Express • FastAPI • Python  
-🧠 **IA & Automação:** OpenAI • Langchain • Integrações com WhatsApp/Facebook/ClickUp  
-💾 **Banco de dados:** PostgreSQL • MongoDB • Firebase  
-☁️ **DevOps & Cloud:** AWS EC2 • GitHub Actions • Netlify • Vercel  
-📊 **BI & Dashboards:** Power BI • Google Sheets • Supabase
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.lucasniceas.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasniceas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassniceaspt@hotmail.com)
 
 </div>
 
 ---
-
-## 🧩 Projetos em destaque
-
-### 🟣 HubAtende – Plataforma Multicanal com IA e CRM
-> Solução SaaS com atendimento automatizado por WhatsApp, bots inteligentes, leads e CRM integrado.  
-🛠️ `Next.js` • `Node.js` • `PostgreSQL` • `OpenAI` • `Tailwind`  
-✨ Destaques: IA que conversa como humano, dashboards em tempo real, automações personalizadas
-
----
-
-### 🟢 Coach America – SEO, Performance e CMS com Strapi
-> Otimização técnica completa de um site real com foco em Google Search, tempo de carregamento e UX.  
-🛠️ `Next.js 14` • `Tailwind CSS` • `Strapi CMS` • `Netlify`  
-✨ Destaques: Sitemap dinâmico, rich snippets com schema.org, ambiente de staging integrado
-
----
-
-### ⚙️ Universe Dashboard – Kubeflow Add-on para ativos financeiros
-> Plugin para gestão de universos de ativos (ações, ETFs, cripto) integrado ao dashboard do Kubeflow.  
-🛠️ `FastAPI` • `ArcticDB` • `PostgreSQL` • `VanillaJS` • `Kubeflow`  
-✨ Destaques: Multi-tenant por namespace, suporte a estratégias com IA, visual customizado
-
----
-
-### 🧠 Atendimento com IA via WhatsApp para a Colormaq
-> Chatbot humanizado que filtra e registra chamados no GLPI com linguagem natural.  
-🛠️ `Python` • `FastAPI` • `OpenAI` • `GLPI API` • `Twilio`  
-✨ Destaques: Detecção de gestor, categorização inteligente, IA adaptativa 24h
-
----
-
-### 📈 Painel Power BI – Contas a Pagar
-> Dashboard financeiro com previsões e execução orçamentária para tomada de decisões.  
-🛠️ `Power BI` • `Google Sheets` • `ETL Automation`  
-✨ Destaques: Visões por centro de custo, filtros customizados, exportação de relatórios
-
----
-## 📊 Minhas Entregas em Números
-
-- 🧠 +10 projetos com integração de IA (OpenAI, automações inteligentes)
-- 🌍 Plataformas SaaS usadas por empresas reais (B2B)
-- ⚙️ APIs REST seguras com autenticação, multiempresa, multiusuário
-- 🚀 Deploys automáticos com GitHub Actions e Netlify/Vercel
-
----
-
-## 🎯 Em construção constante
-
-Atualmente estou focando em:
-- Desenvolvimento de **dashboards analíticos com dados reais**
-- Projetos com **integração total entre frontend, backend e IA**
-- Otimização de apps para **velocidade, SEO e experiência fluida**
-- Construção de **produtos SaaS escaláveis**, com arquitetura multiempresa
-
----
-
-## 🤝 Vamos além do "conecte-se comigo"
-
-Se você curte:
-- Conversar sobre como a IA está mudando o desenvolvimento
-- Criar produtos com propósito e impacto real
-- Compartilhar boas ideias e códigos que resolvem problemas
-
-📬 Me chama ou veja mais em:  
-[🌐 lucasniceas.site](https://www.lucasniceas.site) • [💼 LinkedIn](https://www.linkedin.com/in/lucasniceas/) • [📩 E-mail](mailto:lucassniceaspt@hotmail.com) • [🌐 Instagram](https://www.instagram.com/lucasniceas_/)
-
----
-
-## 🛠️ Tech Stack Atual
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</div>
-  <i>“Código bom é aquele que resolve problema real com elegância.”</i>
 
+## 🚀 **Tech Stack & Tools**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎨 **Frontend**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css" />
+</div>
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ **Backend**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,postgresql,mongodb" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 **AI & Automation**
+<div align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</div>
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ **DevOps & Cloud**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,github,docker" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 **Featured Projects**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🟣 **HubAtende** - SaaS Multicanal
+<img src="https://via.placeholder.com/400x200/6366f1/ffffff?text=HubAtende+Platform" width="100%" />
+
+**🎯 Solução SaaS com IA para atendimento**
+- 🤖 Chatbots inteligentes no WhatsApp
+- 📊 CRM integrado com dashboards
+- ⚡ Automações personalizadas
+
+<div align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</div>
+
+</td>
+<td width="50%">
+
+### 🟢 **Coach America** - SEO & Performance
+<img src="https://via.placeholder.com/400x200/10b981/ffffff?text=Coach+America+Website" width="100%" />
+
+**🚀 Otimização completa de performance**
+- 🔍 SEO técnico avançado
+- 📱 CMS com Strapi integrado
+- ⚡ Core Web Vitals otimizados
+
+<div align="center">
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ **Universe Dashboard** - Kubeflow Plugin
+<img src="https://via.placeholder.com/400x200/f59e0b/ffffff?text=Universe+Dashboard" width="100%" />
+
+**📈 Plugin para gestão de ativos financeiros**
+- 🏢 Multi-tenant por namespace
+- 📊 Integração com ArcticDB
+- 🤖 Estratégias com IA
+
+<div align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</div>
+
+</td>
+<td width="50%">
+
+### 🧠 **IA Colormaq** - WhatsApp Bot
+<img src="https://via.placeholder.com/400x200/ef4444/ffffff?text=AI+WhatsApp+Bot" width="100%" />
+
+**🤖 Chatbot humanizado para suporte**
+- 💬 Linguagem natural avançada
+- 🎯 Integração com GLPI
+- 🔄 Classificação automática
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Stats & Activity**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasniceas&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Impact & Numbers**
+
+</div>
+
+<div align="center">
+
+| 🧠 AI Projects | 🌍 SaaS Platforms | ⚙️ APIs Built | 🚀 Deployments |
+|:---:|:---:|:---:|:---:|
+| **10+** | **B2B Active** | **Multi-tenant** | **Automated** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 **Currently Building**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Real-time+Analytics+Dashboards;Scalable+SaaS+Architectures;Advanced+AI+Integrations;Seamless+User+Experiences" alt="Currently Building" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/analytics.png"/>
+<br><strong>Analytics</strong>
+<br><sub>Real-time dashboards</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png"/>
+<br><strong>AI Integration</strong>
+<br><sub>Smart automations</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/speed.png"/>
+<br><strong>Performance</strong>
+<br><sub>Speed optimization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/cloud.png"/>
+<br><strong>SaaS</strong>
+<br><sub>Scalable products</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Build Together**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" />
+
+**Interessado em discutir:**
+- 🤖 Como a IA está transformando o desenvolvimento
+- 🚀 Produtos com propósito e impacto real  
+- 💡 Ideias e códigos que resolvem problemas
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://www.lucasniceas.site)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucasniceas/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:lucassniceaspt@hotmail.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/lucasniceas_/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Código bom é aquele que resolve problema real com elegância."*
+
+<img src="https://komarev.com/ghpvc/?username=lucasniceas&color=blueviolet&style=flat-square&label=Profile+Views" />
+
+</div>
 
