@@ -76,7 +76,6 @@
 <td width="50%">
 
 ### 🟣 **HubAtende** - SaaS Multicanal
-<img src="https://via.placeholder.com/400x200/6366f1/ffffff?text=HubAtende+Platform" width="100%" />
 
 **🎯 Solução SaaS com IA para atendimento**
 - 🤖 Chatbots inteligentes no WhatsApp
@@ -94,7 +93,6 @@
 <td width="50%">
 
 ### 🟢 **Coach America** - SEO & Performance
-<img src="https://via.placeholder.com/400x200/10b981/ffffff?text=Coach+America+Website" width="100%" />
 
 **🚀 Otimização completa de performance**
 - 🔍 SEO técnico avançado
@@ -113,7 +111,6 @@
 <td width="50%">
 
 ### ⚙️ **Universe Dashboard** - Kubeflow Plugin
-<img src="https://via.placeholder.com/400x200/f59e0b/ffffff?text=Universe+Dashboard" width="100%" />
 
 **📈 Plugin para gestão de ativos financeiros**
 - 🏢 Multi-tenant por namespace
@@ -130,7 +127,6 @@
 <td width="50%">
 
 ### 🧠 **IA Colormaq** - WhatsApp Bot
-<img src="https://via.placeholder.com/400x200/ef4444/ffffff?text=AI+WhatsApp+Bot" width="100%" />
 
 **🤖 Chatbot humanizado para suporte**
 - 💬 Linguagem natural avançada
@@ -243,8 +239,6 @@
 <div align="center">
 
 ### 💭 *"Código bom é aquele que resolve problema real com elegância."*
-
-<img src="https://komarev.com/ghpvc/?username=lucasniceas&color=blueviolet&style=flat-square&label=Profile+Views" />
 
 </div>
 
