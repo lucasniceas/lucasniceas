@@ -150,13 +150,26 @@
 
 ## 📈 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/lucasniceas">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=lucasniceas&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasniceas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9000&area=true&hide_border=true"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
