@@ -29,7 +29,7 @@
 
 ### 🎨 **Frontend**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,html,css" />
 </div>
 
 </td>
@@ -37,7 +37,7 @@
 
 ### ⚙️ **Backend**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,express,fastapi,laravel" />
 </div>
 
 </td>
@@ -45,8 +45,10 @@
 <tr>
 <td align="center" width="50%">
 
-### 🧠 **AI & Automation**
+### 🗄️ **Database & AI**
 <div align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+<br/><br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
@@ -56,7 +58,7 @@
 
 ### ☁️ **DevOps & Cloud**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,github,docker" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,cloudflare" />
 </div>
 
 </td>
