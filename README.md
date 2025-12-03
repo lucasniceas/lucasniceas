@@ -147,23 +147,19 @@
 ---
 
 <div align="center">
+  
+## 📈 GitHub Analytics
 
-## 📊 **GitHub Stats & Activity**
+<a href="https://github.com/lucasniceas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucasniceas&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasniceas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true"/>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasniceas&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
 
 ## 🎯 **Impact & Numbers**
 
