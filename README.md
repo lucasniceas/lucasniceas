@@ -151,8 +151,8 @@
 ## 📈 GitHub Analytics
 
 <a href="https://github.com/lucasniceas">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
 </a>
 
 <br/>
