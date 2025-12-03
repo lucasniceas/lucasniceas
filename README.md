@@ -152,11 +152,6 @@
 
 ## 📈 GitHub Analytics
 
-<a href="https://github.com/lucasniceas">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasniceas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
-</a>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=lucasniceas&theme=github-dark-blue&hide_border=true&background=0D1117"/>
