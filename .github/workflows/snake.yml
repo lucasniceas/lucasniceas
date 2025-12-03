@@ -4,19 +4,24 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: lucasniceas
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
