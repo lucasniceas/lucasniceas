@@ -165,17 +165,15 @@
 
 <br/>
 
+| 🧠 AI Projects | 🌍 SaaS Platforms | ⚙️ APIs Built | 🚀 Deployments |
+|:---:|:---:|:---:|:---:|
+| **10+** | **B2B Active** | **Multi-tenant** | **Automated** |
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
-| 🧠 AI Projects | 🌍 SaaS Platforms | ⚙️ APIs Built | 🚀 Deployments |
-|:---:|:---:|:---:|:---:|
-| **10+** | **B2B Active** | **Multi-tenant** | **Automated** |
 
 </div>
 
