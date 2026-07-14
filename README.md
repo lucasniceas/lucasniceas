@@ -1,237 +1,165 @@
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Lucas Nicéas — Software Engineer" />
+</p>
 
+<p align="center">
+  <a href="https://www.lucasniceas.site" title="Portfolio"><img src="./assets/icons/web.svg" width="38" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/lucasniceas" title="GitHub"><img src="./assets/icons/github.svg" width="38" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="mailto:lucassniceaspt@hotmail.com" title="Email"><img src="./assets/icons/mail.svg" width="38" alt="Email" /></a>
+</p>
 
-# 👨‍💻 Lucas Nicéas
-### Full Stack Developer with an AI twist ⚡️
+<p align="center">
+  <sub>Portugal · Remote collaboration · Software, infrastructure and AI</sub>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Integration+Specialist;Building+Real+Impact+Solutions" alt="Typing SVG" />
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.lucasniceas.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nic%C3%A9as/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassniceaspt@hotmail.com)
+<h2><img src="./assets/icons/about.svg" width="22" alt="" />&nbsp; About</h2>
 
-</div>
+I design and build software where **product engineering**, **infrastructure** and **artificial intelligence** meet.
 
----
+My work spans payment platforms, cloud-native systems, multi-tenant applications, internal developer tooling and AI-enabled products. I care about clear architecture, operational reliability and software that solves real problems under real constraints.
 
-<div align="center">
+> Good code solves a real problem with elegance.
 
-## 🚀 **Tech Stack & Tools**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🎨 **Frontend**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,html,css" />
-</div>
-
-</td>
-<td align="center" width="50%">
-
-### ⚙️ **Backend**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,express,fastapi,laravel" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ **Database & AI**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</div>
-
-</td>
-<td align="center" width="50%">
-
-### ☁️ **DevOps & Cloud**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,cloudflare" />
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🏆 **Featured Projects**
-
-</div>
+<h2><img src="./assets/icons/focus.svg" width="22" alt="" />&nbsp; Current focus</h2>
 
 <table>
-<tr>
-<td width="50%">
-
-### 🟣 **HubAtende** - SaaS Multicanal
-
-**🎯 Solução SaaS com IA para atendimento**
-- 🤖 Chatbots inteligentes no WhatsApp
-- 📊 CRM integrado com dashboards
-- ⚡ Automações personalizadas
-
-<div align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-</div>
-
-</td>
-<td width="50%">
-
-### 🟢 **Coach America** - SEO & Performance
-
-**🚀 Otimização completa de performance**
-- 🔍 SEO técnico avançado
-- 📱 CMS com Strapi integrado
-- ⚡ Core Web Vitals otimizados
-
-<div align="center">
-<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ **Universe Dashboard** - Kubeflow Plugin
-
-**📈 Plugin para gestão de ativos financeiros**
-- 🏢 Multi-tenant por namespace
-- 📊 Integração com ArcticDB
-- 🤖 Estratégias com IA
-
-<div align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</div>
-
-</td>
-<td width="50%">
-
-### 🧠 **IA Colormaq** - WhatsApp Bot
-
-**🤖 Chatbot humanizado para suporte**
-- 💬 Linguagem natural avançada
-- 🎯 Integração com GLPI
-- 🔄 Classificação automática
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td width="48" align="center"><img src="./assets/icons/payments.svg" width="28" alt="" /></td>
+    <td width="46%"><strong>Payment infrastructure</strong><br /><sub>Merchant onboarding, payment routing, 3DS, risk, tokenization and financial operations.</sub></td>
+    <td width="48" align="center"><img src="./assets/icons/platform.svg" width="28" alt="" /></td>
+    <td width="46%"><strong>Platform engineering</strong><br /><sub>Kubernetes platforms, deployment automation, observability and developer experience.</sub></td>
+  </tr>
+  <tr>
+    <td width="48" align="center"><img src="./assets/icons/ai.svg" width="28" alt="" /></td>
+    <td width="46%"><strong>Intelligent systems</strong><br /><sub>AI agents, copilots, OCR pipelines, classification, integrations and workflow automation.</sub></td>
+    <td width="48" align="center"><img src="./assets/icons/distributed.svg" width="28" alt="" /></td>
+    <td width="46%"><strong>Distributed applications</strong><br /><sub>High-performance APIs, real-time data, event-driven services and resilient architectures.</sub></td>
+  </tr>
 </table>
 
----
+<h2><img src="./assets/icons/work.svg" width="22" alt="" />&nbsp; Selected work</h2>
 
-<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th align="left">Organization</th>
+      <th align="left">Role</th>
+      <th align="left">Engineering scope</th>
+      <th align="left">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>MyPilotIndex</strong></td>
+      <td>Senior Software Engineer &amp; AI Architect</td>
+      <td>AI architecture, product engineering and intelligent integrations</td>
+      <td>Present</td>
+    </tr>
+    <tr>
+      <td><strong>SJPR Group</strong></td>
+      <td>Senior Full-Stack Developer</td>
+      <td>Python services, AI, automation and infrastructure</td>
+      <td>Jan 2026 — Present</td>
+    </tr>
+    <tr>
+      <td><strong>LeeilON Tecnologia</strong></td>
+      <td>Senior Full-Stack Developer</td>
+      <td>Flask, SQLAlchemy, PostgreSQL, Keycloak, Next.js and Kubernetes</td>
+      <td>Dec 2025 — Present</td>
+    </tr>
+    <tr>
+      <td><strong>Arest</strong></td>
+      <td>Software Engineer</td>
+      <td>PayFac infrastructure, Rust services, payments and distributed systems</td>
+      <td>Feb 2025 — Present</td>
+    </tr>
+  </tbody>
+</table>
 
-## 📈 GitHub Analytics
+<h2><img src="./assets/icons/systems.svg" width="22" alt="" />&nbsp; Systems I build</h2>
 
-<br/>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Financial platforms</strong><br /><br />
+      Payment orchestration<br />
+      Merchant management<br />
+      Billing and reconciliation<br />
+      Risk and authentication flows
+    </td>
+    <td width="33%" valign="top">
+      <strong>AI products</strong><br /><br />
+      Agents and copilots<br />
+      OCR and document pipelines<br />
+      Classification and matching<br />
+      Human-in-the-loop automation
+    </td>
+    <td width="33%" valign="top">
+      <strong>Cloud platforms</strong><br /><br />
+      Multi-tenant SaaS<br />
+      Internal developer platforms<br />
+      Real-time dashboards<br />
+      Kubernetes-native workloads
+    </td>
+  </tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=lucasniceas&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+<h2><img src="./assets/icons/stack.svg" width="22" alt="" />&nbsp; Engineering toolkit</h2>
 
-<br/>
+<table>
+  <tr>
+    <td width="34" align="center"><img src="./assets/icons/code.svg" width="22" alt="" /></td>
+    <td width="145"><strong>Languages</strong></td>
+    <td><code>Python</code> · <code>Rust</code> · <code>C</code> · <code>TypeScript</code> · <code>PHP</code> · <code>SQL</code></td>
+  </tr>
+  <tr>
+    <td width="34" align="center"><img src="./assets/icons/cloud.svg" width="22" alt="" /></td>
+    <td width="145"><strong>Infrastructure</strong></td>
+    <td><code>Kubernetes</code> · <code>Docker</code> · <code>AWS</code> · <code>Terraform</code> · <code>Cloudflare</code> · <code>Linux</code></td>
+  </tr>
+  <tr>
+    <td width="34" align="center"><img src="./assets/icons/platform.svg" width="22" alt="" /></td>
+    <td width="145"><strong>Backend</strong></td>
+    <td><code>FastAPI</code> · <code>Flask</code> · <code>Laravel</code> · <code>Node.js</code> · <code>SQLAlchemy</code></td>
+  </tr>
+  <tr>
+    <td width="34" align="center"><img src="./assets/icons/database.svg" width="22" alt="" /></td>
+    <td width="145"><strong>Data &amp; identity</strong></td>
+    <td><code>PostgreSQL</code> · <code>Redis</code> · <code>Keycloak</code> · <code>Multi-tenant architecture</code></td>
+  </tr>
+  <tr>
+    <td width="34" align="center"><img src="./assets/icons/systems.svg" width="22" alt="" /></td>
+    <td width="145"><strong>Product</strong></td>
+    <td><code>Next.js</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>Real-time interfaces</code></td>
+  </tr>
+  <tr>
+    <td width="34" align="center"><img src="./assets/icons/delivery.svg" width="22" alt="" /></td>
+    <td width="145"><strong>Delivery</strong></td>
+    <td><code>GitLab CI/CD</code> · <code>GitHub Actions</code> · <code>Observability</code> · <code>Infrastructure automation</code></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasniceas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9000&area=true&hide_border=true"/>
+<h2><img src="./assets/icons/learn.svg" width="22" alt="" />&nbsp; Exploring</h2>
 
-<br/>
+<code>eBPF</code> · <code>Low-level networking</code> · <code>Kubernetes operators</code> · <code>LLM infrastructure</code> · <code>Systems programming</code> · <code>Deep observability</code>
 
-| 🧠 AI Projects | 🌍 SaaS Platforms | ⚙️ APIs Built | 🚀 Deployments |
-|:---:|:---:|:---:|:---:|
-| **10+** | **B2B Active** | **Multi-tenant** | **Automated** |
+<h2><img src="./assets/icons/activity.svg" width="22" alt="" />&nbsp; Contribution activity</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution activity animation" src="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake.svg" />
 </picture>
 
-</div>
+<h2><img src="./assets/icons/contact.svg" width="22" alt="" />&nbsp; Contact</h2>
 
----
+I am open to high-impact engineering work, architecture consulting and selected product collaborations.
 
-<div align="center">
-
-## 🔥 **Currently Building**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Real-time+Analytics+Dashboards;Scalable+SaaS+Architectures;Advanced+AI+Integrations;Seamless+User+Experiences" alt="Currently Building" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/analytics.png"/>
-<br><strong>Analytics</strong>
-<br><sub>Real-time dashboards</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png"/>
-<br><strong>AI Integration</strong>
-<br><sub>Smart automations</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/speed.png"/>
-<br><strong>Performance</strong>
-<br><sub>Speed optimization</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/cloud.png"/>
-<br><strong>SaaS</strong>
-<br><sub>Scalable products</sub>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🤝 **Let's Connect & Build Together**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" />
-
-**Interessado em discutir:**
-- 🤖 Como a IA está transformando o desenvolvimento
-- 🚀 Produtos com propósito e impacto real  
-- 💡 Ideias e códigos que resolvem problemas
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://www.lucasniceas.site)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucas-nic%C3%A9as/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:lucassniceaspt@hotmail.com)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/lucasniceas_/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Código bom é aquele que resolve problema real com elegância."*
-
-</div>
-
+<p>
+  <a href="https://www.lucasniceas.site">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:lucassniceaspt@hotmail.com">Email</a>
+</p>
