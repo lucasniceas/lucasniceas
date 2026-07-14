@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/lucasniceas/lucasniceas/blob/main/readme-banner.png" alt="Lucas Nicéas banner"/>
-</p>
 
-<div align="center">
 
 # 👨‍💻 Lucas Nicéas
 ### Full Stack Developer with an AI twist ⚡️
