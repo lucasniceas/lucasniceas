@@ -79,74 +79,65 @@ My work spans payment platforms, cloud-native systems, multi-tenant applications
   </tbody>
 </table>
 
-<h2><img src="./assets/icons/systems.svg" width="22" alt="" />&nbsp; Systems I build</h2>
+<h2><img src="./assets/icons/stack.svg" width="22" alt="" />&nbsp; Tech stack</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
-      <strong>Financial platforms</strong><br /><br />
-      Payment orchestration<br />
-      Merchant management<br />
-      Billing and reconciliation<br />
-      Risk and authentication flows
-    </td>
-    <td width="33%" valign="top">
-      <strong>AI products</strong><br /><br />
-      Agents and copilots<br />
-      OCR and document pipelines<br />
-      Classification and matching<br />
-      Human-in-the-loop automation
-    </td>
-    <td width="33%" valign="top">
-      <strong>Cloud platforms</strong><br /><br />
-      Multi-tenant SaaS<br />
-      Internal developer platforms<br />
-      Real-time dashboards<br />
-      Kubernetes-native workloads
-    </td>
+    <td align="center" width="80"><img src="./assets/tech/typescript.png" width="40" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/javascript.png" width="40" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/python.png" width="40" alt="Python" /><br /><sub>Python</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/rust.png" width="40" alt="Rust" /><br /><sub>Rust</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/php.png" width="40" alt="PHP" /><br /><sub>PHP</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/react.png" width="40" alt="React" /><br /><sub>React</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/nextjs.png" width="40" alt="Next.js" /><br /><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/nodejs.png" width="40" alt="Node.js" /><br /><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/django.png" width="40" alt="Django" /><br /><sub>Django</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/express.png" width="40" alt="Express" /><br /><sub>Express</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="./assets/tech/docker.png" width="40" alt="Docker" /><br /><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/kubernetes.png" width="40" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/aws.png" width="40" alt="AWS" /><br /><sub>AWS</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/cloudflare.png" width="40" alt="Cloudflare" /><br /><sub>Cloudflare</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/nginx.png" width="40" alt="Nginx" /><br /><sub>Nginx</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/linux.png" width="40" alt="Linux" /><br /><sub>Linux</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/git.png" width="40" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/vercel.png" width="40" alt="Vercel" /><br /><sub>Vercel</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/netlify.png" width="40" alt="Netlify" /><br /><sub>Netlify</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/digitalocean.png" width="40" alt="DigitalOcean" /><br /><sub>DigitalOcean</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="./assets/tech/postgresql.png" width="40" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/mysql.png" width="40" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/mongodb.png" width="40" alt="MongoDB" /><br /><sub>MongoDB</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/graphql.png" width="40" alt="GraphQL" /><br /><sub>GraphQL</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/tailwindcss.png" width="40" alt="Tailwind CSS" /><br /><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/chatgpt.png" width="40" alt="OpenAI" /><br /><sub>OpenAI</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/tensorflow.png" width="40" alt="TensorFlow" /><br /><sub>TensorFlow</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/pytorch.png" width="40" alt="PyTorch" /><br /><sub>PyTorch</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/jest.png" width="40" alt="Jest" /><br /><sub>Jest</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/figma.png" width="40" alt="Figma" /><br /><sub>Figma</sub></td>
   </tr>
 </table>
 
-<h2><img src="./assets/icons/stack.svg" width="22" alt="" />&nbsp; Engineering toolkit</h2>
-
-<table>
-  <tr>
-    <td width="34" align="center"><img src="./assets/icons/code.svg" width="22" alt="" /></td>
-    <td width="145"><strong>Languages</strong></td>
-    <td><code>Python</code> · <code>Rust</code> · <code>C</code> · <code>TypeScript</code> · <code>PHP</code> · <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td width="34" align="center"><img src="./assets/icons/cloud.svg" width="22" alt="" /></td>
-    <td width="145"><strong>Infrastructure</strong></td>
-    <td><code>Kubernetes</code> · <code>Docker</code> · <code>AWS</code> · <code>Terraform</code> · <code>Cloudflare</code> · <code>Linux</code></td>
-  </tr>
-  <tr>
-    <td width="34" align="center"><img src="./assets/icons/platform.svg" width="22" alt="" /></td>
-    <td width="145"><strong>Backend</strong></td>
-    <td><code>FastAPI</code> · <code>Flask</code> · <code>Laravel</code> · <code>Node.js</code> · <code>SQLAlchemy</code></td>
-  </tr>
-  <tr>
-    <td width="34" align="center"><img src="./assets/icons/database.svg" width="22" alt="" /></td>
-    <td width="145"><strong>Data &amp; identity</strong></td>
-    <td><code>PostgreSQL</code> · <code>Redis</code> · <code>Keycloak</code> · <code>Multi-tenant architecture</code></td>
-  </tr>
-  <tr>
-    <td width="34" align="center"><img src="./assets/icons/systems.svg" width="22" alt="" /></td>
-    <td width="145"><strong>Product</strong></td>
-    <td><code>Next.js</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>Real-time interfaces</code></td>
-  </tr>
-  <tr>
-    <td width="34" align="center"><img src="./assets/icons/delivery.svg" width="22" alt="" /></td>
-    <td width="145"><strong>Delivery</strong></td>
-    <td><code>GitLab CI/CD</code> · <code>GitHub Actions</code> · <code>Observability</code> · <code>Infrastructure automation</code></td>
-  </tr>
-</table>
+<p align="center">
+  <sub>Also working with: <code>FastAPI</code> · <code>Flask</code> · <code>Laravel</code> · <code>Terraform</code> · <code>Redis</code> · <code>Keycloak</code> · <code>SQLAlchemy</code></sub>
+</p>
 
 <h2><img src="./assets/icons/learn.svg" width="22" alt="" />&nbsp; Exploring</h2>
 
 <code>eBPF</code> · <code>Low-level networking</code> · <code>Kubernetes operators</code> · <code>LLM infrastructure</code> · <code>Systems programming</code> · <code>Deep observability</code>
 
-<h2><img src="./assets/icons/activity.svg" width="22" alt="" />&nbsp; Contribution activity</h2>
+<h2><img src="./assets/icons/activity.svg" width="22" alt="" />&nbsp; GitHub activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasniceas&hide_border=true&theme=transparent" height="165" alt="Contribution streak" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake-dark.svg" />
