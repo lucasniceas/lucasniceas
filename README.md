@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.lucasniceas.site" title="Portfolio"><img src="./assets/icons/web.svg" width="32" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.lucasniceas.com" title="Portfolio"><img src="./assets/icons/web.svg" width="32" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/lucasniceas" title="GitHub"><img src="./assets/icons/github.svg" width="32" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:lucassniceaspt@hotmail.com" title="Email"><img src="./assets/icons/mail.svg" width="32" alt="Email" /></a>
@@ -148,7 +148,7 @@
 
 <p>
   <samp>
-    <a href="https://www.lucasniceas.site">portfolio</a>&nbsp;·&nbsp;
+    <a href="https://www.lucasniceas.com">portfolio</a>&nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/">linkedin</a>&nbsp;·&nbsp;
     <a href="mailto:lucassniceaspt@hotmail.com">email</a>&nbsp;·&nbsp;
     <a href="https://lucasniceas.github.io/lucasniceas/">interactive 3D</a>
