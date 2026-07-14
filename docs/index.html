@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Lucas Nicéas — Software Engineer</title>
+<meta name="description" content="Lucas Nicéas — Software Engineer. Payments infrastructure, AI systems, platform engineering." />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; overflow: hidden; background: #0d1117; }
+  body {
+    font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace;
+    color: #c9d1d9;
+  }
+  #scene { position: fixed; inset: 0; }
+  .ui { position: fixed; z-index: 2; pointer-events: none; }
+  .ui a { pointer-events: auto; }
+
+  .top {
+    top: 24px; left: 28px;
+    font-size: 13px; color: #8b949e; letter-spacing: 0.04em;
+  }
+  .top .dot { color: #39d353; }
+
+  .center {
+    left: 50%; top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  h1 {
+    font-size: clamp(2rem, 6vw, 3.6rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    background: linear-gradient(90deg, #58a6ff, #79c0ff, #a371f7);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .role {
+    margin-top: 14px;
+    font-size: clamp(0.85rem, 2.2vw, 1.05rem);
+    color: #58a6ff;
+    min-height: 1.4em;
+  }
+  .role .cursor { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+
+  .bottom {
+    bottom: 26px; left: 50%;
+    transform: translateX(-50%);
+    font-size: 13px; color: #8b949e;
+    display: flex; gap: 22px;
+  }
+  .bottom a { color: #8b949e; text-decoration: none; border-bottom: 1px solid #30363d; padding-bottom: 2px; transition: color .2s, border-color .2s; }
+  .bottom a:hover { color: #58a6ff; border-color: #58a6ff; }
+
+  .hint {
+    bottom: 26px; right: 28px;
+    font-size: 12px; color: #484f58;
+  }
+  @media (max-width: 640px) { .hint { display: none; } }
+</style>
+</head>
+<body>
+<canvas id="scene"></canvas>
+
+<div class="ui top"><span class="dot">●</span>&nbsp; lucas@niceas — ~</div>
+
+<div class="ui center">
+  <h1>Lucas Nicéas</h1>
+  <div class="role"><span id="roleText"></span><span class="cursor">▊</span></div>
+</div>
+
+<div class="ui bottom">
+  <a href="https://github.com/lucasniceas">github</a>
+  <a href="https://www.lucasniceas.site">portfolio</a>
+  <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/">linkedin</a>
+  <a href="mailto:lucassniceaspt@hotmail.com">email</a>
+</div>
+
+<div class="ui hint">drag · scroll</div>
+
+<script type="importmap">
+{ "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js" } }
+</script>
+<script type="module">
+import * as THREE from 'three';
+
+const canvas = document.getElementById('scene');
+const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: false });
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+renderer.setClearColor(0x0d1117);
+
+const scene = new THREE.Scene();
+scene.fog = new THREE.FogExp2(0x0d1117, 0.14);
+
+const camera = new THREE.PerspectiveCamera(50, 1, 0.1, 100);
+camera.position.z = 6.2;
+
+const group = new THREE.Group();
+scene.add(group);
+
+// particle sphere — fibonacci distribution
+const COUNT = 4200;
+const positions = new Float32Array(COUNT * 3);
+const colors = new Float32Array(COUNT * 3);
+const cA = new THREE.Color(0x58a6ff);
+const cB = new THREE.Color(0xa371f7);
+const golden = Math.PI * (3 - Math.sqrt(5));
+for (let i = 0; i < COUNT; i++) {
+  const y = 1 - (i / (COUNT - 1)) * 2;
+  const r = Math.sqrt(1 - y * y);
+  const theta = golden * i;
+  const R = 2.2;
+  positions[i * 3] = Math.cos(theta) * r * R;
+  positions[i * 3 + 1] = y * R;
+  positions[i * 3 + 2] = Math.sin(theta) * r * R;
+  const c = cA.clone().lerp(cB, (y + 1) / 2);
+  colors[i * 3] = c.r; colors[i * 3 + 1] = c.g; colors[i * 3 + 2] = c.b;
+}
+const geo = new THREE.BufferGeometry();
+geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+geo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+const pts = new THREE.Points(geo, new THREE.PointsMaterial({
+  size: 0.022, vertexColors: true, transparent: true, opacity: 0.9,
+  blending: THREE.AdditiveBlending, depthWrite: false,
+}));
+group.add(pts);
+
+// inner wireframe core
+const core = new THREE.Mesh(
+  new THREE.IcosahedronGeometry(1.15, 1),
+  new THREE.MeshBasicMaterial({ color: 0x58a6ff, wireframe: true, transparent: true, opacity: 0.14 })
+);
+group.add(core);
+
+// faint outer ring
+const ring = new THREE.Mesh(
+  new THREE.TorusGeometry(3.1, 0.004, 8, 160),
+  new THREE.MeshBasicMaterial({ color: 0xa371f7, transparent: true, opacity: 0.35 })
+);
+ring.rotation.x = Math.PI / 2.4;
+group.add(ring);
+
+// interaction
+let targetRX = 0, targetRY = 0, dragging = false, px = 0, py = 0, zoom = 6.2;
+const onMove = (x, y) => {
+  if (dragging) {
+    targetRY += (x - px) * 0.005;
+    targetRX += (y - py) * 0.005;
+  } else {
+    targetRY = (x / window.innerWidth - 0.5) * 0.6;
+    targetRX = (y / window.innerHeight - 0.5) * 0.4;
+  }
+  px = x; py = y;
+};
+addEventListener('pointerdown', e => { dragging = true; px = e.clientX; py = e.clientY; });
+addEventListener('pointerup', () => dragging = false);
+addEventListener('pointermove', e => onMove(e.clientX, e.clientY));
+addEventListener('wheel', e => { zoom = Math.min(10, Math.max(3.5, zoom + e.deltaY * 0.003)); }, { passive: true });
+
+const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+function resize() {
+  const w = innerWidth, h = innerHeight;
+  renderer.setSize(w, h, false);
+  camera.aspect = w / h;
+  camera.updateProjectionMatrix();
+}
+addEventListener('resize', resize);
+resize();
+
+const clock = new THREE.Clock();
+renderer.setAnimationLoop(() => {
+  const t = clock.getElapsedTime();
+  if (!reduced) {
+    group.rotation.y += 0.0016;
+    core.rotation.x = t * 0.12;
+    core.rotation.z = t * 0.08;
+    ring.rotation.z = t * 0.05;
+  }
+  group.rotation.y += (targetRY - group.rotation.y) * 0.04;
+  group.rotation.x += (targetRX - group.rotation.x) * 0.04;
+  camera.position.z += (zoom - camera.position.z) * 0.08;
+  renderer.render(scene, camera);
+});
+
+// role typing loop
+const roles = [
+  'Software Engineer',
+  'Payments & Fintech Infrastructure',
+  'AI Systems & Agents',
+  'Platform & Cloud Engineering',
+];
+const el = document.getElementById('roleText');
+let ri = 0, ci = 0, deleting = false;
+function type() {
+  const word = roles[ri];
+  el.textContent = word.slice(0, ci);
+  let delay = deleting ? 28 : 62;
+  if (!deleting && ci === word.length) { delay = 2200; deleting = true; }
+  else if (deleting && ci === 0) { deleting = false; ri = (ri + 1) % roles.length; delay = 300; }
+  ci += deleting ? -1 : 1;
+  setTimeout(type, delay);
+}
+type();
+</script>
+</body>
+</html>

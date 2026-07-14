@@ -1,142 +1,139 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Lucas Nicéas — Software Engineer" />
+  <img src="./assets/header.svg" width="100%" alt="Lucas Nicéas — Software Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://www.lucasniceas.site" title="Portfolio"><img src="./assets/icons/web.svg" width="38" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/lucasniceas" title="GitHub"><img src="./assets/icons/github.svg" width="38" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="mailto:lucassniceaspt@hotmail.com" title="Email"><img src="./assets/icons/mail.svg" width="38" alt="Email" /></a>
+  <a href="https://www.lucasniceas.site" title="Portfolio"><img src="./assets/icons/web.svg" width="32" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/" title="LinkedIn"><img src="./assets/icons/linkedin.svg" width="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lucasniceas" title="GitHub"><img src="./assets/icons/github.svg" width="32" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lucassniceaspt@hotmail.com" title="Email"><img src="./assets/icons/mail.svg" width="32" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <sub>Portugal · Remote collaboration · Software, infrastructure and AI</sub>
+  <a href="https://lucasniceas.github.io/lucasniceas/"><img src="https://img.shields.io/badge/%E2%96%B6%20interactive%203D-58a6ff?style=flat-square&labelColor=0d1117" alt="Interactive 3D" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=lucasniceas&color=58a6ff&style=flat-square&label=views" alt="Profile views" />
 </p>
 
 <br />
 
-<h2><img src="./assets/icons/about.svg" width="22" alt="" />&nbsp; About</h2>
+## <samp>~/about</samp>
 
-I design and build software where **product engineering**, **infrastructure** and **artificial intelligence** meet.
+<samp>I build software where <strong>product engineering</strong>, <strong>infrastructure</strong> and <strong>AI</strong> meet — payment platforms, cloud-native systems, multi-tenant SaaS and AI-enabled products. Clear architecture, operational reliability, real problems.</samp>
 
-My work spans payment platforms, cloud-native systems, multi-tenant applications, internal developer tooling and AI-enabled products. I care about clear architecture, operational reliability and software that solves real problems under real constraints.
+> <samp>Good code solves a real problem with elegance.</samp>
 
-> Good code solves a real problem with elegance.
-
-<h2><img src="./assets/icons/focus.svg" width="22" alt="" />&nbsp; Current focus</h2>
+## <samp>~/now</samp>
 
 <table>
   <tr>
-    <td width="48" align="center"><img src="./assets/icons/payments.svg" width="28" alt="" /></td>
-    <td width="46%"><strong>Payment infrastructure</strong><br /><sub>Merchant onboarding, payment routing, 3DS, risk, tokenization and financial operations.</sub></td>
-    <td width="48" align="center"><img src="./assets/icons/platform.svg" width="28" alt="" /></td>
-    <td width="46%"><strong>Platform engineering</strong><br /><sub>Kubernetes platforms, deployment automation, observability and developer experience.</sub></td>
+    <td width="48" align="center"><img src="./assets/icons/payments.svg" width="26" alt="" /></td>
+    <td width="46%"><samp><strong>Payment infrastructure</strong><br /><sub>onboarding · routing · 3DS · risk · tokenization</sub></samp></td>
+    <td width="48" align="center"><img src="./assets/icons/platform.svg" width="26" alt="" /></td>
+    <td width="46%"><samp><strong>Platform engineering</strong><br /><sub>Kubernetes · deploy automation · observability</sub></samp></td>
   </tr>
   <tr>
-    <td width="48" align="center"><img src="./assets/icons/ai.svg" width="28" alt="" /></td>
-    <td width="46%"><strong>Intelligent systems</strong><br /><sub>AI agents, copilots, OCR pipelines, classification, integrations and workflow automation.</sub></td>
-    <td width="48" align="center"><img src="./assets/icons/distributed.svg" width="28" alt="" /></td>
-    <td width="46%"><strong>Distributed applications</strong><br /><sub>High-performance APIs, real-time data, event-driven services and resilient architectures.</sub></td>
+    <td width="48" align="center"><img src="./assets/icons/ai.svg" width="26" alt="" /></td>
+    <td width="46%"><samp><strong>Intelligent systems</strong><br /><sub>agents · copilots · OCR pipelines · automation</sub></samp></td>
+    <td width="48" align="center"><img src="./assets/icons/distributed.svg" width="26" alt="" /></td>
+    <td width="46%"><samp><strong>Distributed applications</strong><br /><sub>high-performance APIs · real-time · event-driven</sub></samp></td>
   </tr>
 </table>
 
-<h2><img src="./assets/icons/work.svg" width="22" alt="" />&nbsp; Selected work</h2>
+## <samp>~/work</samp>
 
 <table>
-  <thead>
-    <tr>
-      <th align="left">Organization</th>
-      <th align="left">Role</th>
-      <th align="left">Engineering scope</th>
-      <th align="left">Period</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td><strong>MyPilotIndex</strong></td>
-      <td>Senior Software Engineer &amp; AI Architect</td>
-      <td>AI architecture, product engineering and intelligent integrations</td>
-      <td>Present</td>
+      <td><samp><strong>MyPilotIndex</strong></samp></td>
+      <td><samp>Senior Software Engineer &amp; AI Architect</samp></td>
+      <td><samp><sub>AI architecture · product engineering · integrations</sub></samp></td>
+      <td align="right"><samp><sub>now</sub></samp></td>
     </tr>
     <tr>
-      <td><strong>SJPR Group</strong></td>
-      <td>Senior Full-Stack Developer</td>
-      <td>Python services, AI, automation and infrastructure</td>
-      <td>Jan 2026 — Present</td>
+      <td><samp><strong>SJPR Group</strong></samp></td>
+      <td><samp>Senior Full-Stack Developer</samp></td>
+      <td><samp><sub>Python services · AI · automation · infra</sub></samp></td>
+      <td align="right"><samp><sub>2026 —</sub></samp></td>
     </tr>
     <tr>
-      <td><strong>LeeilON Tecnologia</strong></td>
-      <td>Senior Full-Stack Developer</td>
-      <td>Flask, SQLAlchemy, PostgreSQL, Keycloak, Next.js and Kubernetes</td>
-      <td>Dec 2025 — Present</td>
+      <td><samp><strong>LeeilON Tecnologia</strong></samp></td>
+      <td><samp>Senior Full-Stack Developer</samp></td>
+      <td><samp><sub>Flask · PostgreSQL · Keycloak · Next.js · K8s</sub></samp></td>
+      <td align="right"><samp><sub>2025 —</sub></samp></td>
     </tr>
     <tr>
-      <td><strong>Arest</strong></td>
-      <td>Software Engineer</td>
-      <td>PayFac infrastructure, Rust services, payments and distributed systems</td>
-      <td>Feb 2025 — Present</td>
+      <td><samp><strong>Arest</strong></samp></td>
+      <td><samp>Software Engineer</samp></td>
+      <td><samp><sub>PayFac infra · Rust services · distributed systems</sub></samp></td>
+      <td align="right"><samp><sub>2025 —</sub></samp></td>
     </tr>
   </tbody>
 </table>
 
-<h2><img src="./assets/icons/stack.svg" width="22" alt="" />&nbsp; Tech stack</h2>
+## <samp>~/stack</samp>
 
 <table align="center">
   <tr>
-    <td align="center" width="80"><img src="./assets/tech/typescript.png" width="40" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/javascript.png" width="40" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/python.png" width="40" alt="Python" /><br /><sub>Python</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/rust.png" width="40" alt="Rust" /><br /><sub>Rust</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/php.png" width="40" alt="PHP" /><br /><sub>PHP</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/react.png" width="40" alt="React" /><br /><sub>React</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/nextjs.png" width="40" alt="Next.js" /><br /><sub>Next.js</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/nodejs.png" width="40" alt="Node.js" /><br /><sub>Node.js</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/django.png" width="40" alt="Django" /><br /><sub>Django</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/express.png" width="40" alt="Express" /><br /><sub>Express</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/typescript.png" width="38" alt="TypeScript" /><br /><sub><samp>TypeScript</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/javascript.png" width="38" alt="JavaScript" /><br /><sub><samp>JavaScript</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/python.png" width="38" alt="Python" /><br /><sub><samp>Python</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/rust.png" width="38" alt="Rust" /><br /><sub><samp>Rust</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/php.png" width="38" alt="PHP" /><br /><sub><samp>PHP</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/react.png" width="38" alt="React" /><br /><sub><samp>React</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/nextjs.png" width="38" alt="Next.js" /><br /><sub><samp>Next.js</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/nodejs.png" width="38" alt="Node.js" /><br /><sub><samp>Node.js</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/django.png" width="38" alt="Django" /><br /><sub><samp>Django</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/express.png" width="38" alt="Express" /><br /><sub><samp>Express</samp></sub></td>
   </tr>
   <tr>
-    <td align="center" width="80"><img src="./assets/tech/docker.png" width="40" alt="Docker" /><br /><sub>Docker</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/kubernetes.png" width="40" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/aws.png" width="40" alt="AWS" /><br /><sub>AWS</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/cloudflare.png" width="40" alt="Cloudflare" /><br /><sub>Cloudflare</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/nginx.png" width="40" alt="Nginx" /><br /><sub>Nginx</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/linux.png" width="40" alt="Linux" /><br /><sub>Linux</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/git.png" width="40" alt="Git" /><br /><sub>Git</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/vercel.png" width="40" alt="Vercel" /><br /><sub>Vercel</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/netlify.png" width="40" alt="Netlify" /><br /><sub>Netlify</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/digitalocean.png" width="40" alt="DigitalOcean" /><br /><sub>DigitalOcean</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/docker.png" width="38" alt="Docker" /><br /><sub><samp>Docker</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/kubernetes.png" width="38" alt="Kubernetes" /><br /><sub><samp>K8s</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/aws.png" width="38" alt="AWS" /><br /><sub><samp>AWS</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/cloudflare.png" width="38" alt="Cloudflare" /><br /><sub><samp>Cloudflare</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/nginx.png" width="38" alt="Nginx" /><br /><sub><samp>Nginx</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/linux.png" width="38" alt="Linux" /><br /><sub><samp>Linux</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/git.png" width="38" alt="Git" /><br /><sub><samp>Git</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/vercel.png" width="38" alt="Vercel" /><br /><sub><samp>Vercel</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/netlify.png" width="38" alt="Netlify" /><br /><sub><samp>Netlify</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/digitalocean.png" width="38" alt="DigitalOcean" /><br /><sub><samp>D.Ocean</samp></sub></td>
   </tr>
   <tr>
-    <td align="center" width="80"><img src="./assets/tech/postgresql.png" width="40" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/mysql.png" width="40" alt="MySQL" /><br /><sub>MySQL</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/mongodb.png" width="40" alt="MongoDB" /><br /><sub>MongoDB</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/graphql.png" width="40" alt="GraphQL" /><br /><sub>GraphQL</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/tailwindcss.png" width="40" alt="Tailwind CSS" /><br /><sub>Tailwind</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/chatgpt.png" width="40" alt="OpenAI" /><br /><sub>OpenAI</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/tensorflow.png" width="40" alt="TensorFlow" /><br /><sub>TensorFlow</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/pytorch.png" width="40" alt="PyTorch" /><br /><sub>PyTorch</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/jest.png" width="40" alt="Jest" /><br /><sub>Jest</sub></td>
-    <td align="center" width="80"><img src="./assets/tech/figma.png" width="40" alt="Figma" /><br /><sub>Figma</sub></td>
+    <td align="center" width="80"><img src="./assets/tech/postgresql.png" width="38" alt="PostgreSQL" /><br /><sub><samp>Postgres</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/mysql.png" width="38" alt="MySQL" /><br /><sub><samp>MySQL</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/mongodb.png" width="38" alt="MongoDB" /><br /><sub><samp>MongoDB</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/graphql.png" width="38" alt="GraphQL" /><br /><sub><samp>GraphQL</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/tailwindcss.png" width="38" alt="Tailwind CSS" /><br /><sub><samp>Tailwind</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/chatgpt.png" width="38" alt="OpenAI" /><br /><sub><samp>OpenAI</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/tensorflow.png" width="38" alt="TensorFlow" /><br /><sub><samp>TensorFlow</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/pytorch.png" width="38" alt="PyTorch" /><br /><sub><samp>PyTorch</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/jest.png" width="38" alt="Jest" /><br /><sub><samp>Jest</samp></sub></td>
+    <td align="center" width="80"><img src="./assets/tech/figma.png" width="38" alt="Figma" /><br /><sub><samp>Figma</samp></sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Also working with: <code>FastAPI</code> · <code>Flask</code> · <code>Laravel</code> · <code>Terraform</code> · <code>Redis</code> · <code>Keycloak</code> · <code>SQLAlchemy</code></sub>
+  <sub><samp>+ FastAPI · Flask · Laravel · Terraform · Redis · Keycloak · SQLAlchemy · eBPF (exploring)</samp></sub>
 </p>
 
-<h2><img src="./assets/icons/learn.svg" width="22" alt="" />&nbsp; Exploring</h2>
-
-<code>eBPF</code> · <code>Low-level networking</code> · <code>Kubernetes operators</code> · <code>LLM infrastructure</code> · <code>Systems programming</code> · <code>Deep observability</code>
-
-<h2><img src="./assets/icons/activity.svg" width="22" alt="" />&nbsp; GitHub activity</h2>
+## <samp>~/stats</samp>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasniceas&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=1a7f37&text_color=24292f&ring_color=0969da&rank_icon=github" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasniceas&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&langs_count=8" height="165" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasniceas&hide_border=true&theme=transparent" height="165" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lucasniceas&hide_border=true&background=00000000&ring=58a6ff&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&stroke=30363d" />
+    <img src="https://streak-stats.demolab.com?user=lucasniceas&hide_border=true&background=00000000&ring=0969da&fire=1a7f37&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=8b949e&stroke=d0d7de" height="165" alt="Contribution streak" />
+  </picture>
 </p>
 
 <picture>
@@ -145,12 +142,15 @@ My work spans payment platforms, cloud-native systems, multi-tenant applications
   <img alt="GitHub contribution activity animation" src="https://raw.githubusercontent.com/lucasniceas/lucasniceas/output/github-snake.svg" />
 </picture>
 
-<h2><img src="./assets/icons/contact.svg" width="22" alt="" />&nbsp; Contact</h2>
+## <samp>~/contact</samp>
 
-I am open to high-impact engineering work, architecture consulting and selected product collaborations.
+<samp>Open to high-impact engineering work, architecture consulting and selected product collaborations.</samp>
 
 <p>
-  <a href="https://www.lucasniceas.site">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:lucassniceaspt@hotmail.com">Email</a>
+  <samp>
+    <a href="https://www.lucasniceas.site">portfolio</a>&nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/lucas-nic%C3%A9as/">linkedin</a>&nbsp;·&nbsp;
+    <a href="mailto:lucassniceaspt@hotmail.com">email</a>&nbsp;·&nbsp;
+    <a href="https://lucasniceas.github.io/lucasniceas/">interactive 3D</a>
+  </samp>
 </p>
